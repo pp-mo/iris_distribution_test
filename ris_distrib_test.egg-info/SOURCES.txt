@@ -1,0 +1,8 @@
+README
+setup.py
+iris_distribution_test/__init__.py
+iris_distribution_test/subpackage.py
+ris_distrib_test.egg-info/PKG-INFO
+ris_distrib_test.egg-info/SOURCES.txt
+ris_distrib_test.egg-info/dependency_links.txt
+ris_distrib_test.egg-info/top_level.txt
